@@ -39,4 +39,21 @@ Se unirmos todos os números racionais e irracionais, o resultado será o conjun
 
 ## Números complexos ou imaginários
 
-Números complexos são uma extensão dos números reais que inclui a unidade imaginária "i", onde "i" é a raiz quadrada de -1. Eles são expressos na forma a + bi, onde "a" e "b" são números reais e "i" é a unidade imaginária. Os números complexos são fundamentais na matemática, sendo utilizados em diversas áreas, como análise de circuitos elétricos, teoria dos números e engenharia.
+Números complexos são uma extensão dos números reais que inclui a unidade imaginária "i", onde "i" é a raiz quadrada de -1. Eles são expressos na forma a + bi, onde "a" e "b" são números reais e "i" é a unidade imaginária. Os números complexos são fundamentais na matemática, sendo utilizados em diversas áreas, como análise de circuitos elétricos, teoria dos números e engenharia. Eles ainda não serão profundamente abordados aqui.
+
+## Operações com números inteiros
+
+### Adição de inteiros
+
+Conceitos importantes:
+* Sinais iguais, soma e repete o sinal.
+* Sinais diferentes, subtrai e dá o sinal do maior.
+* **+** Não é preciso para expressar números positivos.
+
+exemplos:
+|X  |Operador|Y  |Resultado|
+|---|--------|---|---------|
+|5  |+       |5  |10       |
+|-3 |+       |-3 |-6       |
+|8  |+       |-4 |4        |
+|-9 |+       |5  |-4       |
